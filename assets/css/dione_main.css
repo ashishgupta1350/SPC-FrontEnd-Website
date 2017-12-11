@@ -2425,7 +2425,9 @@ section {
 /*
 * Background color
 */
-
+.bg-customed{
+    
+}
 .bg-black {
     background-color: #000000 !important;
 }
