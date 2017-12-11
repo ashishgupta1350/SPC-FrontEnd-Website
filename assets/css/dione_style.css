@@ -71,6 +71,9 @@
 /*
 * Home BG Slideshow
 */
+.bg-red{
+    background-color: red;
+}
 
 #home-bg-slideshow .bg-slideshow-wrapper .slides > .bg-cover:nth-child(1) {
     background: url("../images/bg-home-1.jpg");
