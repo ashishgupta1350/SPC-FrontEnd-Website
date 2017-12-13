@@ -2425,9 +2425,19 @@ section {
 /*
 * Background color
 */
-.bg-customed{
-    
+.bg-sponsor{
+    background-image:url(company2.jpg); 
+    background-repeat:no-repeat; 
+    background-position: absolute;
+     background-size:100%;
 }
+@media screen and (max-width: 5000px) {
+.bg-sponsor{
+    background-color:rgb(24, 24, 24);
+    opacity:0.9;   
+}
+}
+
 .bg-black {
     background-color: #000000 !important;
 }
